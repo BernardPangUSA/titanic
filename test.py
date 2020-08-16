@@ -3,3 +3,7 @@
 print("hi")
 
 # %%
+
+print("test")
+
+# %%
