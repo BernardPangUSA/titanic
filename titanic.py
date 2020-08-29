@@ -39,3 +39,6 @@ data.corr().abs()[["survived"]]
 
 
 # %%
+
+
+#%%
